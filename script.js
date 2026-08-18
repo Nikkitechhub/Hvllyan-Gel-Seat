@@ -5,7 +5,7 @@
    anywhere in index.html, style.css, or this file.
    ========================================================== */
 
-const AMAZON_AFFILIATE_LINK = "PASTE_YOUR_AMAZON_AFFILIATE_LINK_HERE";
+const AMAZON_AFFILIATE_LINK = "https://amzn.to/4g1Sjqq";
 
 function openAmazon() {
   window.open(AMAZON_AFFILIATE_LINK, "_blank", "noopener");
